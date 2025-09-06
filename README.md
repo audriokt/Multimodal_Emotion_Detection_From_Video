@@ -1,0 +1,2 @@
+# Multimodal_Emotion_Detection_From_Video
+Project for Satdat Competition
